@@ -1,6 +1,0 @@
-pytube
-Pillow
-requests
-
-
-# pip install -r requirements.txt
